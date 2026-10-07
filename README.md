@@ -1,6 +1,6 @@
 <!-- TROCAR: Salve a imagem do seu banner na pasta do seu repositório (ex: na raiz ou numa pasta /assets) e atualize o caminho src abaixo se necessário. No exemplo, estou usando 'banner.png' -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner do perfil de João Felipe Pacheco" width="100%" />
+  <img src="assets/banner.png" alt="Banner do perfil de João Felipe Pacheco" width="70%" />
 </p>
 
 <h1 align="center">Olá! 👋 Sou o João Felipe</h1>
@@ -14,17 +14,15 @@
 ## 🛠️ Stacks e Tecnologias
 
 <div align="center">
-  <h3>Front-end</h3>
+  <h3>
+    Front-end &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Back-end
+  </h3>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" alt="Ícones de Front-end" />
-  <p>HTML5 • CSS3 • Tailwind CSS • React</p>
-</div>
-
-<br><br><br> <!-- Espaçamento grande entre o Front e o Back -->
-
-<div align="center">
-  <h3>Back-end</h3>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Ícones de Back-end" />
-  <p>Spring Boot</p>
+  <p>
+    HTML5 • CSS3 • Tailwind CSS • React &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spring Boot
+  </p>
 </div>
 
 ---
